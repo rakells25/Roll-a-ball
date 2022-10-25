@@ -1,5 +1,51 @@
 # Roll-a-Ball
 
+#PRESENTATION
+
+Roll a Ball Game app with Unity.
+
+It is a project focused on a 3D roll-a-ball video game where the player is a ball and can move over an area where he meets some cubes that give him a score, which accumulates on the counter that is visible in the area. top left of the screen.
+
+Once all the cubes have collided, a message will appear ("you win! Click reset to play again") informing the player that the game has ended successfully and that they have the option to play again by clicking the reset button which is accessible at all times since it is shown throughout the game in the upper right area so that you can reset the game at any time if you wish.
+
+In addition, there is also the "Scene" button with which we can change from one scene to another where we can see a different scenario.
+
+
+
+#STARTING 🚀
+
+This application is designed to be a 3D video game where the user can interact with objects and move in the established space respecting the laws of force, momentum and gravity.
+
+
+
+#INSTALLATION 🔧
+
+To run the app, you need to download the project and open it in Unity. Once you have the project open, you just have to click on the star button.
+
+
+
+#RUNNING THE TESTS ⚙️
+
+With the "space" key the player can jump, while with the direction keys we can move our player.
+
+
+
+#BUILT WITH 🛠️
+
+Unity
+VisualStudio
+
+
+
+#AUTHORS ✒️
+
+Rachel Lopez Sanchez
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 #PRESENTACIÓN
 
 Aplicación Game de Roll a Ball con Unity.
