@@ -1,6 +1,7 @@
 # Roll-a-Ball
 
 #PRESENTACIÓN
+
 Aplicación Game de Roll a Ball con Unity.
 
 Es un proyecto enfocado a un videojuego en 3D de roll a ball donde el jugador es una bola y puede moverse sobre un área donde se encuentra con unos cubos que le proporcionan puntuación, la cual va acumulando en el contador que se muestra visible en la zona superior izquierda de la pantalla.
@@ -11,22 +12,30 @@ Además también se encuentra el botón "Scene" con el cual podemos cambiar de u
 
 
 #Comenzando 🚀
+
 Esta aplicación está pensada para ser un videojuego en 3D donde el usuario puede interactuar con objetos y moverse en el espacio establecido respetando las leyes de fuerza, impulso y gravedad.
 
 
+
 #Instalación 🔧
+
 Para ejecutar la aplicación, debe descargar el proyecto y abrirlo en Unity.
 Una vez tenga el proyecto abierto solo debe clicar en el botón star.
 
 
+
 #Ejecutando las pruebas ⚙️
+
 Con la tecla "espacio" el jugador puede saltar, mientras que con las teclas de direccionamiento podemos mover a nuestro jugador.
 
 
 #Construido con 🛠️
+
 - Unity
 - Visual Studio 
 
 
+
 #Autores ✒️
+
 Raquel López Sánchez
