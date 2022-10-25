@@ -12,35 +12,32 @@ Además también se encuentra el botón "Scene" con el cual podemos cambiar de u
 
 
 
-#Comenzando 🚀
+#COMENZANDO 🚀
 
 Esta aplicación está pensada para ser un videojuego en 3D donde el usuario puede interactuar con objetos y moverse en el espacio establecido respetando las leyes de fuerza, impulso y gravedad.
 
 
 
-
-#Instalación 🔧
+#INSTALACIÓN 🔧
 
 Para ejecutar la aplicación, debe descargar el proyecto y abrirlo en Unity.
 Una vez tenga el proyecto abierto solo debe clicar en el botón star.
 
 
 
-
-#Ejecutando las pruebas ⚙️
+#EJECUTANDO LAS PRUEBAS ⚙️
 
 Con la tecla "espacio" el jugador puede saltar, mientras que con las teclas de direccionamiento podemos mover a nuestro jugador.
 
 
 
-#Construido con 🛠️
+#CONSTRUIDO CON 🛠️
 
 - Unity
 - Visual Studio 
 
 
 
-
-#Autores ✒️
+#AUTORES ✒️
 
 Raquel López Sánchez
