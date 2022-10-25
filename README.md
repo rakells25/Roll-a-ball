@@ -11,9 +11,11 @@ Una vez haya conseguido colisionar con todos los cubos aparecerá un mensaje ("y
 Además también se encuentra el botón "Scene" con el cual podemos cambiar de una escena a otra donde podemos apreciar un escenario diferente.
 
 
+
 #Comenzando 🚀
 
 Esta aplicación está pensada para ser un videojuego en 3D donde el usuario puede interactuar con objetos y moverse en el espacio establecido respetando las leyes de fuerza, impulso y gravedad.
+
 
 
 
@@ -24,15 +26,18 @@ Una vez tenga el proyecto abierto solo debe clicar en el botón star.
 
 
 
+
 #Ejecutando las pruebas ⚙️
 
 Con la tecla "espacio" el jugador puede saltar, mientras que con las teclas de direccionamiento podemos mover a nuestro jugador.
+
 
 
 #Construido con 🛠️
 
 - Unity
 - Visual Studio 
+
 
 
 
